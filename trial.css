@@ -1,0 +1,39 @@
+
+*{
+  box-sizing: border-box;
+}
+
+h1{
+    margin: 10px;
+    color:darkkhaki;
+    border-bottom: 1px solid rgb(149, 135, 135);
+  
+  }
+p{
+    margin: 10px 0 ;
+    font-size: 20px;
+   
+}
+img{
+  float: right;
+  width: 500px;
+}
+#content{
+   
+   border: 1px solid black;
+   width: 150px;
+    }
+    h2{
+       border-bottom:1px solid  rgb(149, 135, 135)  ;
+    }
+
+.header{
+  height: 100px;
+  text-align: center;
+  font-size:30px;
+  color: aliceblue;
+  background-color: rgb(149, 140, 129);
+}
+.header>h2{
+  transform: translateY(20px);
+}
